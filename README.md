@@ -5,16 +5,6 @@ Java Web Application: Build & Deploy Guide (Java 17 + Maven + Tomcat)
 Overview
 This project is a Java Web Application designed to run on Java 17, built using Maven, and deployed on Apache Tomcat. The project demonstrates a basic Java web app structure, with a simple calculator implementation.
 
-Project Structure
-JavaWebCalculator/
-├── pom.xml
-├── src/
-│   ├── main/
-│   │   ├── java/mypackage/Calculator.java
-│   │   └── webapp/
-│   │       ├── WEB-INF/web.xml
-│   │       └── index.jsp
-│   └── test/java/mypackage/CalculatorTest.java
 pom.xml: Maven project configuration.
 simple java application
 index.jsp: The homepage of the web application.
